@@ -27,6 +27,7 @@
 }
 */
 //asdsadasdasdasd
+//измененения от Кирилла
 function SerchFunction ()
 {
     let element = document.getElementById('elastic');
