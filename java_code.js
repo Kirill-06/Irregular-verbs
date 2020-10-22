@@ -26,6 +26,7 @@
     }
 }
 */
+//asdsadasdasdasd
 function SerchFunction ()
 {
     let element = document.getElementById('elastic');
